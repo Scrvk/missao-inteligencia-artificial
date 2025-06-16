@@ -1,9 +1,9 @@
-# Missao inteligencia artificial -
+# Missao inteligencia artificial 
 Este projeto é uma aplicação interativa de perguntas e respostas, onde o usuário pode explorar suas preferências e opiniões sobre Inteligência Artificial. Através de uma série de perguntas, o usuário é direcionado a outras perguntas, criando uma experiência personalizada e contínua, sempre focada no tema da IA.
 
 
 
-# Descrição -
+# Descrição 
 A missão tem como objetivo envolver os usuários em uma conversa interativa sobre o que pensam sobre Inteligência Artificial. São feitas perguntas sobre suas preferências e sobre suas opiniões sobre a IA, com o objetivo de coletar dados sobre o que as pessoas pensam sobre a tecnologia.
 
 Direcionamento: Ao clicar em uma das respostas, o usuário é redirecionado para uma nova pergunta relacionada à sua escolha anterior.
@@ -22,6 +22,6 @@ Progressão: O usuário continua respondendo a perguntas sobre IA até alcançar
 
 
 
-# Licença -
+# Licença 
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
 
